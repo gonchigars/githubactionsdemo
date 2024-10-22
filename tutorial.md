@@ -73,6 +73,8 @@ jobs:
 
 This workflow does the following:
 
+...
+
 1. It's named "Greet and Test"
 2. It runs when you push or make a pull request to the main branch
 3. It has one job called "greet-and-test" that runs on the latest Ubuntu
